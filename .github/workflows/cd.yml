@@ -27,4 +27,4 @@ jobs:
           context: .
           file: ./Dockerfile
           push: true
-          tags: /calculator:latest
+          tags: jedha_school/calculator:latest
